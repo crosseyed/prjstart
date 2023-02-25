@@ -18,9 +18,7 @@ require (
 	github.com/sosedoff/gitkit v0.2.0
 	github.com/stretchr/testify v1.6.1
 	github.com/wayneashleyberry/terminal-dimensions v1.0.0
-	golang.org/x/crypto v0.0.0-20200423211502-4bdfaf469ed5 // indirect
-	golang.org/x/net v0.0.0-20200506145744-7e3656a0809f // indirect
-	golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0
 	syreclabs.com/go/faker v1.2.2
 )
